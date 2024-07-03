@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700");
+
+.b{
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    background-color: aliceblue;
+}
+.name{
+    margin-top: -19px;
+}
+.b{
+    font-family:Instrument Sans;
+}
+.he1{
+    
+align-items: center;
+background: var(--Button, #000);
+display: flex;
+height: 25px;
+}
+
+.waktalogo{
+    width: 54px;
+}
+.image{
+    width: 50px;
+}
+.profile{
+    width: 38px;
+}

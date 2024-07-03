@@ -1,0 +1,18 @@
+.wrapper {
+  display: flex;
+  height: auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #f8f9fa;
+}
+.product-img img {
+  max-width: 60%;
+  height: auto;
+}
+.product-info {
+  padding: 20px;
+}
+.product-text h1, .product-text h2, .product-text p, .product-price-btn p, .product-price-btn button {
+  margin-bottom: 15px;
+}

@@ -1,0 +1,25 @@
+.name{
+    margin-top: -19px;
+}
+.b{
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+.he1{
+    
+align-items: center;
+background: var(--Button, #000);
+display: flex;
+height: 25px;
+}
+
+.waktalogo{
+    width: 54px;
+}
+.b{
+    background-color: rgb(244, 244, 244);
+}
+.area{
+    background-color: rgb(255, 255, 255);
+}
+
+
